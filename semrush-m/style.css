@@ -1,0 +1,248 @@
+@font-face {
+  font-family: 'semrush-m';
+  src:  url('fonts/semrush-m.eot?8ac59i');
+  src:  url('fonts/semrush-m.eot?8ac59i#iefix') format('embedded-opentype'),
+    url('fonts/semrush-m.ttf?8ac59i') format('truetype'),
+    url('fonts/semrush-m.woff?8ac59i') format('woff'),
+    url('fonts/semrush-m.svg?8ac59i#semrush-m') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-m-"], [class*=" icon-m-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'semrush-m' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-m-alert:before {
+  content: "\e900";
+  color: #adbabe;
+}
+.icon-m-bell:before {
+  content: "\e901";
+  color: #adbabe;
+}
+.icon-m-calendar:before {
+  content: "\e902";
+  color: #adbabe;
+}
+.icon-m-chek:before {
+  content: "\e903";
+  color: #adbabe;
+}
+.icon-m-close:before {
+  content: "\e904";
+  color: #adbabe;
+}
+.icon-m-close2:before {
+  content: "\e905";
+  color: #adbabe;
+}
+.icon-m-document:before {
+  content: "\e906";
+  color: #adbabe;
+}
+.icon-m-download:before {
+  content: "\e907";
+  color: #adbabe;
+}
+.icon-m-dropdown:before {
+  content: "\e908";
+  color: #adbabe;
+}
+.icon-m-dropleft:before {
+  content: "\e909";
+  color: #adbabe;
+}
+.icon-m-dropright:before {
+  content: "\e90a";
+  color: #adbabe;
+}
+.icon-m-dropup:before {
+  content: "\e90b";
+  color: #adbabe;
+}
+.icon-m-edit:before {
+  content: "\e90c";
+  color: #adbabe;
+}
+.icon-m-export:before {
+  content: "\e90d";
+  color: #adbabe;
+}
+.icon-m-group:before {
+  content: "\e90e";
+  color: #adbabe;
+}
+.icon-m-import:before {
+  content: "\e90f";
+  color: #adbabe;
+}
+.icon-m-label:before {
+  content: "\e910";
+  color: #adbabe;
+}
+.icon-m-landscape:before {
+  content: "\e911";
+  color: #adbabe;
+}
+.icon-m-list:before {
+  content: "\e912";
+  color: #adbabe;
+}
+.icon-m-pin:before {
+  content: "\e913";
+  color: #adbabe;
+}
+.icon-m-pinall:before {
+  content: "\e914";
+  color: #adbabe;
+}
+.icon-m-portrait:before {
+  content: "\e915";
+  color: #adbabe;
+}
+.icon-m-question:before {
+  content: "\e916";
+  color: #adbabe;
+}
+.icon-m-search:before {
+  content: "\e917";
+  color: #adbabe;
+}
+.icon-m-speaker:before {
+  content: "\e918";
+  color: #adbabe;
+}
+.icon-m-unpin:before {
+  content: "\e919";
+  color: #adbabe;
+}
+.icon-m-upload:before {
+  content: "\e91a";
+  color: #adbabe;
+}
+.icon-m-return:before {
+  content: "\e91b";
+}
+.icon-m-col:before {
+  content: "\e91c";
+}
+.icon-m-col2:before {
+  content: "\e91d";
+}
+.icon-m-alignleft:before {
+  content: "\e91e";
+}
+.icon-m-backlink:before {
+  content: "\e91f";
+}
+.icon-m-facebook:before {
+  content: "\e920";
+}
+.icon-m-gplus:before {
+  content: "\e921";
+}
+.icon-m-instagram:before {
+  content: "\e922";
+}
+.icon-m-pagebreak:before {
+  content: "\e923";
+}
+.icon-m-pinterest:before {
+  content: "\e924";
+}
+.icon-m-telescope:before {
+  content: "\e925";
+}
+.icon-m-text:before {
+  content: "\e926";
+}
+.icon-m-twitter:before {
+  content: "\e927";
+}
+.icon-m-youtube:before {
+  content: "\e928";
+}
+.icon-m-picture:before {
+  content: "\e929";
+}
+.icon-m-plus:before {
+  content: "\e92a";
+}
+.icon-m-user:before {
+  content: "\e92b";
+}
+.icon-m-ad_bottom:before {
+  content: "\e92c";
+}
+.icon-m-ad_top:before {
+  content: "\e92d";
+}
+.icon-m-amp_project:before {
+  content: "\e92e";
+}
+.icon-m-attach:before {
+  content: "\e92f";
+}
+.icon-m-carousel:before {
+  content: "\e930";
+}
+.icon-m-cart:before {
+  content: "\e931";
+}
+.icon-m-chat_question:before {
+  content: "\e932";
+}
+.icon-m-crown:before {
+  content: "\e933";
+}
+.icon-m-cursor_pointer:before {
+  content: "\e934";
+}
+.icon-m-education:before {
+  content: "\e935";
+}
+.icon-m-favorite:before {
+  content: "\e936";
+}
+.icon-m-link_alt:before {
+  content: "\e937";
+}
+.icon-m-medal:before {
+  content: "\e938";
+}
+.icon-m-news:before {
+  content: "\e939";
+}
+.icon-m-organic:before {
+  content: "\e93a";
+}
+.icon-m-pictures:before {
+  content: "\e93b";
+}
+.icon-m-pin_usd:before {
+  content: "\e93c";
+}
+.icon-m-pinmap:before {
+  content: "\e93d";
+}
+.icon-m-star:before {
+  content: "\e93e";
+}
+.icon-m-video_alt:before {
+  content: "\e93f";
+}
+.icon-m-video:before {
+  content: "\e940";
+}
